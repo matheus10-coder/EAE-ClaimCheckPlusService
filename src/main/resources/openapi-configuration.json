@@ -1,0 +1,17 @@
+{
+    "resourcePackages": [
+        "net.abcbs.eae.jaxrs"
+    ],
+    "prettyPrint" : true,
+    "cacheTTL": 0,
+    "openAPI": {
+        "info": {
+            "version": "1.0",
+            "title": "RPAClaimCheckPlusService",
+            "description": "A RESTful web service to get/update values from/to Mainframe for the EAE team under the RPA initiate",
+            "contact": {
+                "email": "EnterpriseAutomationEngineeringTeam@arkbluecross.com"
+            }
+        }
+    }
+}
